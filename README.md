@@ -1,2 +1,4 @@
 # my_first_repo
-my first git repo
+print("Hello, GitHub!")
+print("This is my first repository 🚀")
+
